@@ -3,7 +3,7 @@ $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 require 'lazy_high_charts/version'
 
 Gem::Specification.new do |s|
-  s.name        = "lazy_high_charts"
+  s.name        = "lazy_high_charts_tomgi"
   s.version     = LazyHighCharts::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Miguel Michelson Martinez','Deshi Xiao']
